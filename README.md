@@ -75,4 +75,17 @@ The dashboard presents intuitive and interactive visualizations, including:
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+## 🧠 Strategic Insights
+
+- **The Premium Spender** group has the highest average purchase → ideal for loyalty and upselling programs.
+- **The Quality Seeker** segment gives the best product ratings → can be leveraged as brand advocates.
+- **The Loyal Shopper** group is consistent and dependable → keep them engaged with regular promotions.
+
+---
+
+## 📬 Contact
+
+Created by: Wilma Nur Fatimah  
+Email: nurfatimahwilma@gmail.com  
+LinkedIn: www.linkedin.com/in/wilma-nur-fatimah-9860332bb
 
